@@ -1,0 +1,10 @@
+namespace FactoryPattern.AbstractFactory;
+
+public enum PizzaType
+{
+    Cheese,
+    Greek,
+    Pepperoni,
+    Clam,
+    Veggie
+}
