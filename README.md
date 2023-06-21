@@ -37,19 +37,16 @@ The best way to use patterns is to load your brain with them and then recognize 
 ### Strategy
 
 defines a family of algorithms, encapsulates each one, and makes them interchangeable.
-
 Strategy lets the algorithm vary independently from clients that use it.
 
 ### Observer
 
 defines a one-to-many dependency between objects so that when one object changes state,
-
 all of its dependents are notified and updated automatically.
 
 ### Decorator
 
 Attach additional responsibilities to an object dynamically.
-
 Decorator provide a flexible alternative to subclassing for extending functionality.
 
 ### Factory Method
@@ -70,13 +67,11 @@ ensures a class has only one instance, and provides a global point of access to 
 ### Adapter
 
 converts the interface of a class into another interface the clients expect.
-
 Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.
 
 ### Façade
 
 Provides a unified interface to a set of interfaces in a subsystem.
-
 Facade defines a higher-level interface that makes the subsystem easier to use.
 
 ## References
